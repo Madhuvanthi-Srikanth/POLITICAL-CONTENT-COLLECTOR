@@ -13,7 +13,7 @@ Project to perform Sentiment Analysis on political content present in news feed.
 • Install newsAPI using pip install
 
 # How to run
-This project is done using python. Run the .py file to get the output.
+Run the .py file to get the output.
 
 # Output
-Only political content is extracted from the news feed and the analysis is done on it. You get the sentiment analysis of each webpage.
+Political content is extracted from the news feed and the analysis is done on it. 
